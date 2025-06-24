@@ -7,9 +7,9 @@ Welcome to the **ml-deepL-projects-2026** repository! This collection contains v
 ```
 ml-deepL-projects-2026/
 │
-├── project-1/
+├── machine-learning/
 │   └── README.md
-├── project-2/
+├── deep-learning/
 │   └── README.md
 ├── ...
 └── README.md  ← (You are here)
@@ -25,7 +25,7 @@ Each project subfolder includes:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ml-deepL-projects-2026.git
+    git clone https://github.com/ashfaqshuvo007/ml-deepL-projects-2026.git
     cd ml-deepL-projects-2026
     ```
 
